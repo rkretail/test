@@ -1,7 +1,10 @@
 import React from 'react'
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> cd0a55b3f61a88742fdc667788fd2136b3c33003
 function Home() {
   return (
       <>
